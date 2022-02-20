@@ -1,2 +1,3 @@
 # hello-world
-a place to put stuff
+a place to put things
+
